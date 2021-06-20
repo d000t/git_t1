@@ -3,7 +3,4 @@ line 2
 
 line 4
 and 5
-<<<<<<< HEAD
 line 6
-=======
->>>>>>> 709de08762d21380dde4b065f240e08b4008b37b
